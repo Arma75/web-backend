@@ -29,4 +29,7 @@ dependencies {
 
     // H2 Database Driver
     implementation 'com.h2database:h2'
+
+	// Apache POI - 마이크로소프트 엑셀 파일을 읽거나 쓰기 위한 라이브러리
+    implementation 'org.apache.poi:poi-ooxml:5.2.3'
 }
